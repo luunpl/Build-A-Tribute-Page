@@ -4,5 +4,5 @@ This is a small project dedicated to building a tribute page for Steve Jobs, the
 
 You can view the tribute page by clicking the link below:
 
-[Steve Jobs Tribute Page](http://127.0.0.1:5500/Build-A-Tribute-Page/index.html)
+[Steve Jobs Tribute Page](https://luunpl.github.io/Build-A-Tribute-Page/)
 
